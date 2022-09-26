@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/admin-pc/.gradle/caches/transforms-3/68d9cc4d14cacbb2ac21672e240f5e53/transformed/appcompat-1.5.0/res/drawable/abc_btn_borderless_material.xml" value="0.2035" />
+        <entry key="..\:/Users/admin-pc/AndroidStudioProjects/BeatBox/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2055" />
+        <entry key="..\:/Users/admin-pc/AndroidStudioProjects/BeatBox/app/src/main/res/drawable/button_beat_box.xml" value="0.2055" />
+        <entry key="..\:/Users/admin-pc/AndroidStudioProjects/BeatBox/app/src/main/res/drawable/button_beat_box_normal.xml" value="0.209" />
+        <entry key="..\:/Users/admin-pc/AndroidStudioProjects/BeatBox/app/src/main/res/drawable/button_beat_box_pressed.xml" value="0.2055" />
+        <entry key="..\:/Users/admin-pc/AndroidStudioProjects/BeatBox/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2055" />
+        <entry key="..\:/Users/admin-pc/AndroidStudioProjects/BeatBox/app/src/main/res/layout/activity_main.xml" value="0.35885416666666664" />
+        <entry key="..\:/Users/admin-pc/AndroidStudioProjects/BeatBox/app/src/main/res/layout/list_item_sound.xml" value="0.3179347826086957" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
